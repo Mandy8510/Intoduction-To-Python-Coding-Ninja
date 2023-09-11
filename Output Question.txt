@@ -1,0 +1,18 @@
+Output Question
+
+What will the following code segment print?
+print(“Career”)
+print(“Labs”)
+
+Options
+
+This problem has only one correct answer
+
+A) CareerLabs
+B) Career Labs
+C) Career Labs(in next line)
+D) "Career""Labs"
+
+Correct Answer C
+Solution Description
+“Career” and “Labs” are printed in separate lines because by default print() function ends with a new line.
